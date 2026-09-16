@@ -1,6 +1,6 @@
 # BastLine
 
-Plateforme de mise en relation entre entreprises du BTP et intérimaires — projet de fin d'études (Epitech).
+Plateforme de mise en relation entre entreprises du BTP et intérimaires.
 
 L'idée : une entreprise du bâtiment publie une mission, et l'application lui propose des intérimaires qualifiés et disponibles à proximité, grâce à un système de matching par compétences, zone géographique et disponibilité.
 
