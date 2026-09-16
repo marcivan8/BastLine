@@ -1,0 +1,37 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  font-size: 14px;
+}
+
+.label {
+  color: var(--color-text);
+  font-weight: 600;
+}
+
+.value {
+  color: var(--color-text-muted);
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.track {
+  height: 8px;
+  border-radius: 999px;
+  background-color: var(--color-surface-muted);
+  overflow: hidden;
+}
+
+.fill {
+  height: 100%;
+  border-radius: 999px;
+  background-color: var(--color-primary-strong);
+  transition: width 300ms ease;
+}
